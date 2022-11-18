@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @dokiuh, a 25 year old BSc Computer Science graduate󠁧󠁢󠁳󠁣󠁴󠁿 with no idea where I'm going ✌
-- 👀 I’m interested in minamilistic web design and widgets, React and bot development.
-- 🌱 I’m currently working with Twitter, Riot and Blizzards API to play with data.
+<div align="center">
+<img max-width="800" src="https://raw.githubusercontent.com/dokiuh/dokiuh/233ef7a9a678de94095f2bba187424f3caeda979/assets/git.png"/>
+</div>
